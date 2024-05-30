@@ -1,0 +1,221 @@
+.header-section{
+    background-color:rgba(229, 84, 115, 0.1);
+
+    height: 900px;
+    display: flex;
+    padding-bottom: 0px;
+    
+    
+    
+}
+.moto{
+    font-family: sans-serif;
+    font-size: 80px;
+    font-weight: bolder;
+    color: #272727;
+
+}
+.header-discription{
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.6);
+    font-family: sans-serif;
+    /* margin-top: 32px; */
+}
+.btn-primary{
+    background-color: #E55473;
+    color: #FFFFFF;
+    font-size: 20px;
+    border-radius: 8px;
+    /* border: none; */
+    height: 64px;
+    width: 179px;
+    border: none;
+
+}
+.header-div{
+    padding-left: 200px;
+    padding-top: 100px;
+}
+.header-img{
+    height: 800px;
+    width: 635px;
+    padding-left: 150px;
+    
+    
+}
+/* main start */
+.featured{
+    text-align: center;
+    margin-top: 180px;
+}
+.featured-header{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #272727;
+    font-weight: bolder;
+    margin-bottom: 24px;
+}
+.first-img{
+    /* background-color: rgba(167, 33, 98, 0.15); */
+    height: 428px;
+    width: 310px;
+    /* padding: 0px; */
+    /* padding-left: 50px; */
+}
+.img-div{
+    padding-bottom: 0px;
+    padding-left: 75px;
+}
+.redius{
+    height: 538px;
+    width: 464px;
+    border-top-right-radius: 300px;
+    border-top-left-radius: 300px;
+    background-color: rgba(167, 33, 98, 0.15);
+   
+    align-content: flex-end;
+    /* padding-bottom: 0px; */
+    /* padding-left: 70px; */
+}
+.main-section{
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* margin-left: 25px; */
+    margin-top: 48px;
+    justify-content: center;
+    gap: 24px;
+    
+}
+.flower-name{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 24px;
+    color: #272727;
+    
+
+}
+.service-name{
+    font-family: sans-serif;
+    font-size: 24px;
+    color: #272727;
+    text-align: justify;
+}
+.three-contain{
+    display: flex;
+    justify-content: space-evenly;
+}
+.sec-bg{
+    background-color: rgba(39, 39, 39, 0.05);
+    height: 320px;
+    width: 1440px;
+    align-content: center;
+    margin-left: 220px;
+    /* margin-right: 220px; */
+    margin-top: 132px;
+    
+}
+.pink-text{
+    color: #E55473;
+}
+.offer{
+    color: #272727;
+    font-size: 40px;
+    font-family: sans-serif;
+    font width: border;
+}
+.offer-section{
+    height: 690px;
+    width: 100%;
+    background-color: rgba(229, 84, 115, 0.05);
+    display: flex;
+    margin-top: 130px;
+}
+.offer-div-first{
+    height: 228px;
+    width: 594px;
+    padding-top: 215px;
+    padding-left: 350px;
+}
+.offer-pic{
+    height: 420px;
+    width: 318px;
+    padding-top: 140px;
+    padding-left: 250px;
+}
+.ista-div{
+    height: 135px;
+    width: 600px;
+    margin-left: 650px;
+    margin-top: 130px;
+    
+}
+.four-pic{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 55px;
+}
+.div-bg{
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    height: 450px;
+    width: 1440px;
+    margin-top: 130px;
+    margin-left: 206px;
+}
+.bg-container{
+    margin: 121px 287px;
+    height: 206px;
+    width: 866px;
+    /* display: flex; */
+    padding-top: 120px;
+}
+#input-button{
+    background-color: #FFFFFF;
+    border: none;
+    height: 64px;
+    width: 700px;
+    border-radius: 8px;
+}
+.div-ar-div{
+    display: flex;
+}
+.second-offer{
+    text-align: center;
+    color: #272727;
+    font-size: 40px;
+    font-family: sans-serif;
+    font width: border;
+}
+
+.offer-disciption{
+color: #272727;
+font-size: 18px;
+font-family: sans-serif;
+font width: border;
+text-align: center;
+}
+.footer-sec{
+    background-color: #111010;
+    height: 450px;
+    margin-top: 130px;
+}
+.last-textcolor{
+    color: #FFFFFF;
+    font-size: 48px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 130px;
+
+}
+.last-p{
+    color:rgba(255, 255, 255, 0.9);
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+address{
+    color: rgba(255, 255, 255, 0.4);
+    text-align: center;
+}
